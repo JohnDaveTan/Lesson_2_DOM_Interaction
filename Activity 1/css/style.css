@@ -1,0 +1,48 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    
+}
+section{
+    width: 450px;
+    background-color: purple;
+    color:whitesmoke;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}   
+h2{
+    font-size: 2rem;
+  border-bottom:  4px solid #ccc;
+    color: pink;
+    margin: 0 0 1rem 0;
+    margin-top: 20px;
+} 
+p{
+font-size: 2rem;
+    border-bottom: 4px solid #ccc;
+    color : white;
+    margin: 0 0 1rem 0;
+    margin-top: 20px;
+    
+}
+.pic img {
+max-width: 20%;
+height:auto;
+}
+input {
+font: inherit;
+border: 1px solid #ccc;
+text-align:  center;
+color:white;
+background-color:cyan ;
+}
